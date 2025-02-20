@@ -14,4 +14,5 @@ Este programa en Prolog representa el árbol genealógico de la familia Simpson.
 ## Cómo ejecutar  
 1. Clona este repositorio:  
    ```sh
-   git clone https://github.com/tu-usuario/Arbol-Genealogico-Simpson.git
+  git remote add origin https://github.com/camilocastanoi/Arbol-Genealogico-Simpson.git
+
